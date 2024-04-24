@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "GitHubStatsApplication.Controllers.GitHubStatsController",
+    "Method": "GetLetterFrequency",
+    "RelativePath": "GitHubStats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "OrderBy",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
