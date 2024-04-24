@@ -2,7 +2,7 @@
 
 This application connects to the GitHub API to gather statistics on how often each letter is present in JavaScript/TypeScript files of the lodash repository.
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/mamtora123/GitHubStatsRepo.git
 2. Navigate to the project directory:
 ---cd GitHubStatsApplication
 3. Install dependencies:
