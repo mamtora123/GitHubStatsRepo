@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u80Y4ICODuz0CkkDw6RbUT24b4F7u2iqa7Zxah1cdzYs8mn6Eb3I5CJHQeXPbxred3POZVgs4QyL+fZpwBZAhQ==",
+  "dgSpecHash": "PbkvBhOO5ZrVC9gLuIc5gArtkGdxwYyoQjAhhHOGob+WjyxriSgDzLi3P44yPPkkswF1JkoGTx8cdAi+2o79HA==",
   "success": true,
-  "projectFilePath": "D:\\Priyanka\\GitHubStatsApplication\\GitHubStatsTest\\GitHubStatsTest.csproj",
+  "projectFilePath": "C:\\Users\\vicky\\Source\\Repos\\GitHubStatsRepo\\GitHubStatsTest\\GitHubStatsTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vicky\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\vicky\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

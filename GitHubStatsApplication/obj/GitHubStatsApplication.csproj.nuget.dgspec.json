@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Priyanka\\GitHubStatsApplication\\GitHubStatsApplication\\GitHubStatsApplication.csproj": {}
+    "C:\\Users\\vicky\\Source\\Repos\\GitHubStatsRepo\\GitHubStatsApplication\\GitHubStatsApplication.csproj": {}
   },
   "projects": {
-    "D:\\Priyanka\\GitHubStatsApplication\\GitHubStatsApplication\\GitHubStatsApplication.csproj": {
+    "C:\\Users\\vicky\\Source\\Repos\\GitHubStatsRepo\\GitHubStatsApplication\\GitHubStatsApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Priyanka\\GitHubStatsApplication\\GitHubStatsApplication\\GitHubStatsApplication.csproj",
+        "projectUniqueName": "C:\\Users\\vicky\\Source\\Repos\\GitHubStatsRepo\\GitHubStatsApplication\\GitHubStatsApplication.csproj",
         "projectName": "GitHubStatsApplication",
-        "projectPath": "D:\\Priyanka\\GitHubStatsApplication\\GitHubStatsApplication\\GitHubStatsApplication.csproj",
+        "projectPath": "C:\\Users\\vicky\\Source\\Repos\\GitHubStatsRepo\\GitHubStatsApplication\\GitHubStatsApplication.csproj",
         "packagesPath": "C:\\Users\\vicky\\.nuget\\packages\\",
-        "outputPath": "D:\\Priyanka\\GitHubStatsApplication\\GitHubStatsApplication\\obj\\",
+        "outputPath": "C:\\Users\\vicky\\Source\\Repos\\GitHubStatsRepo\\GitHubStatsApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vicky\\AppData\\Roaming\\NuGet\\NuGet.Config",
